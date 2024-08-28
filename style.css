@@ -1,0 +1,37 @@
+body{
+    background-color: #ff4500;
+    color: #ffffff;
+    font-family: "Jersey 10", sans-serif;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+.passo{
+    display: none;
+}
+
+.ativo{
+    display: block;
+}
+
+button{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Jersey 10", sans-serif;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+div{
+    text-align: center;
+    padding: 0 20px;
+}
+
+img{
+    max-width: 60%;
+}
